@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+## ClockWise 2.20a
 
-You can use the [editor on GitHub](https://github.com/httpsonly/httpsonly.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Version update:
 
-### Markdown
+Interface polished, automation improvements, new miniaturised view, ability to detect (and terminate) internet connection on schedule, various enhancements, more options, more customisation and bug fixes.
+Summary:  Clockwise is described as "….an alarm clock for your PC – and more". A bit of understatement considering that you can schedule any program to run unattended, as well as use a variety of timing tools such as countdown timer, stopwatch and alarms, and a simple to use calendar.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+What you get:  A clock, calendar, timer, stopwatch, five alarms, 'sticky-note' reminders and a program scheduler. The display also shows various time zones, local sunrise and sunset information, and can automatically update your system clock. The most useful feature would depend on the person using it, but we were most impressed by the scheduling features, which allow you to program up to thirty events to run completely automatically, such as virus scanning, disk scanning, backup procedures, even rebooting or shutting down your system. All of which is remarkably simple to setup.
 
-```markdown
-Syntax highlighted code block
+Setup and installation:  Simple and user-friendly; the procedure leads you through step by step.
 
-# Header 1
-## Header 2
-### Header 3
+# Ease of use: 
 
-- Bulleted
-- List
+Most impressive, especially considering the number of features in such a small program. This is a program that within a very small time you’ll be using fully - probably without even having to look at the online help.
 
-1. Numbered
-2. List
+# Help & support: 
 
-**Bold** and _Italic_ and `Code` text
+Simple and well-explained, although very little is actually necessary.
 
-[Link](url) and ![Image](src)
-```
+# Technical bit: 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+On average the software used-up less than 1 MB of RAM, and between 5 and 7% of the system resources - in short, very little. Even on quite a low powered machine, you really shouldn't feel the effect of this program sitting in the system tray.
 
-### Jekyll Themes
+# Problems: 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/httpsonly/httpsonly.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+During the testing, we found a couple of very minor problems; all of which the author has assured us will be fixed in the next version.
 
-### Support or Contact
+# Verdict: 
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+The software is most notable for it's ease of use, number of features, low demand on system resources and very low price. All of which add up to a fine program that many people could find to be extremely useful.
