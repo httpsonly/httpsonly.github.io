@@ -14,6 +14,12 @@ Setup and installation:  Simple and user-friendly; the procedure leads you throu
 
 Most impressive, especially considering the number of features in such a small program. This is a program that within a very small time you’ll be using fully - probably without even having to look at the online help.
 
+Followers to your account are based on genre, so that you get followers who enjoy the types of music that you produce and which can help others find your account.
+
+While getting anywhere on SoundCloud is a daunting task to undertake on your own, there are solutions to increase your number of SoundCloud followers and increase the attention to your name so that you can just focus on your music. 
+
+[www.soundcloudpromotions.com](http://soundcloudpromotions.com/) is a great way to increase traffic to your SoundCloud profile, increase the number of followers to your account and, by doing both, increase the number of sales of your music and the attention on your account.soundcloud-followers.com isn't like other services, and gives you real followers and real results.
+
 # Help & support: 
 
 Simple and well-explained, although very little is actually necessary.
